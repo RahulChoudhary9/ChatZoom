@@ -44,8 +44,8 @@ ChatZoom is a MERN-stack real-time chat application featuring:
 
 ```
 ChatZoomApp/
-├── controllers/
-│   └── user.controller.js
+├── routes/
+│   └── user.route.js
 ├── middlewares/
 │   ├── auth.middleware.js
 │   └── passport.js
